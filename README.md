@@ -4,7 +4,7 @@ A simple project that shows a personal dashboard. The code and stylesheet are de
 
 Most of the code is also written during a period where I learned javascript and Vue.js. So don't expect any good code either. The code was then found again during a cleanup on my computer over a year later. So I can't answer why I did as I did. If I get time to refine the code, I will check in newer versions. So stay tuned. Or not.
 
-> For Norwegian users, see more info at [helgejohnsen.no/skriverier](helgejohnsen.no/skriverier)
+> For Norwegian users, see more info at [https://www.helgejohnsen.no/skriverier/dashboard-for-i-pad/](https://www.helgejohnsen.no/skriverier/dashboard-for-i-pad/)
 
 
 ## Config
